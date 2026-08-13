@@ -39,6 +39,26 @@ Following this, select your final idea and make note of it.
 ## Researching and Planning
 ### Explore Existing Ideas
 Research at least three websites / web applications which are used to influence people. Evaluate each with a PMI (Plus, Minus, Implications) table.
+- fandom   
+
+| Plus | Minus | Implications |
+| - | - | - |
+|  |  |  |
+
+
+- wikipedia
+
+| Plus | Minus | Implications |
+| - | - | - |
+|  |  |  |
+
+
+- formula 1 
+
+| Plus | Minus | Implications |
+| - | - | - |
+|  |  |  |
+
 
 ### Secondary Research
 Research information using data from at least 2-3 reputable sources.
