@@ -9,7 +9,7 @@
 | - | - | - | - |
 | Recipe with my groceries | When people enter the groceries they have at home, the website will generate different recipes they can try. | It influences people not to waste food. | People who have a hard time using groceries to cook meals. |
 | All about F1 | Informs people about everything on F1 |  | People who want to start getting into F1 | 
-| Connecting | Finds people near you who have similar or the same hobbies as you. | Helps people to connect with eachother and brings everyone together.  | Helps those who have a hard time making friends and striking up conversations by giving something to start talking about. | 
+| Pokemon Series' |  |  | | 
 | Match your mood | Generates music based on your mood and also if you enter in a song you like, it will find you similar ones |  |  |
 | Online Lego | You can play with lego blocks online and create whatever you want | Influences creativity | Helps those who have limited movements in their hands or can't buy physical lego | 
 | Don't be alone | Teaches people how to deal with people with different personalities based on MBTI |  | Those who have trouble talking and socialising with others |
@@ -86,6 +86,12 @@ Implement your application using appropriate scripting / programming languages (
 ### Documentation
 Document the whole development process (including all of the above) in a Markdown (.md) file.
 
+| Week | Development Process |
+| - | - |
+| 2 | Made the documentation.md files, my mind map and started the 6 big ideas. |
+| 3 | I nearly finished the Diverge section and made the matrix and SWOT for my ideas. |
+| 4 | I decided to change my idea from F1 to Pokemon due to the overflowing amount of pre-existing F1 websites and also started on documenting the development process. |
+
 ### Version Control
 Commit all changes to GitHub regularly and make highly detailed comments for each new version.
 
@@ -95,7 +101,6 @@ Commit all changes to GitHub regularly and make highly detailed comments for eac
 Evaluate your own project and that of your peers using predetermined criteria.
 
 ### Evaluation of Issues
-
 Evaluation of your solution in terms of social, ethical, and legal responsibilities / issues.
 
 ### Project Evaluation
