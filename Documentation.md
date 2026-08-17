@@ -29,6 +29,7 @@ Based on my Impact / Effort Matrix and Peer SWOT Analysis, my ideas like 'Online
 ## Requirements Outline
 ### Functional Requirements
 My website will serve as a gateway for beginners to get into collecting pokemon cards. It will categorise information into the different eras of cards and show the most popular sets and individuals cards for each era. It will also provide users with other website and apps that will help with calculating card values and tools to check real-time market prices.
+- write for each page (past assessment task)
 
 ### Non-Functional Requirements
 **Performance**  
@@ -46,6 +47,8 @@ To ensure data safety, the website will not collect personal information and all
 **Accessibility**
 The website must be all inclusive to users by ensuring that every image includes a descriptive text to support visually impaired individuals who are using screen readers.
 
+
+- how good and bad are contrbuting to it
 
 ## Researching and Planning
 ### Explore Existing Ideas
