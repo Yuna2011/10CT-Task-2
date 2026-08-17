@@ -8,8 +8,8 @@
 | Idea Name | What It Does | Influence It Explores | Who It Helps |
 | - | - | - | - |
 | Recipe with my groceries | When people enter the groceries they have at home, the website will generate different recipes they can try. | It influences people not to waste food. | People who have a hard time using groceries to cook meals. |
-| All about F1 | Informs people about everything on F1 |  | People who want to start getting into F1 | 
-| Pokemon For Beginners |  |  | | 
+| All about F1 | Informs people about the basics on F1. |  | People who want to start getting into F1 | 
+| Pokemon For Beginners |  |  | It helps people who want to start getting into collecting cards. | 
 | Match your mood | Generates music based on your mood and also if you enter in a song you like, it will find you similar ones |  |  |
 | Online Lego | You can play with lego blocks online and create whatever you want | Influences creativity | Helps those who have limited movements in their hands or can't buy physical lego | 
 | Don't be alone | Teaches people how to deal with people with different personalities based on MBTI |  | Those who have trouble talking and socialising with others |
@@ -30,6 +30,9 @@ Based on my Impact / Effort Matrix and Peer SWOT Analysis, my ideas like 'Online
 ### Functional Requirements
 My website will serve as a gateway for beginners to get into collecting pokemon cards. It will categorise information into the different eras of cards and show the most popular sets and individuals cards for each era. It will also provide users with other website and apps that will help with calculating card values and tools to check real-time market prices.
 - write for each page (past assessment task)
+
+**Home Page**  
+**
 
 ### Non-Functional Requirements
 **Performance**  
@@ -55,7 +58,7 @@ The website must be all inclusive to users by ensuring that every image includes
 | Websites / Web Applications| Plus | Minus | Implications |
 | - | - | - | - |
 | Instagram | Gives small businesses and other creators a free platform to share their work and have a chance of reaching a global audience and can also help people with unique interest or hobbies find online communities all over the world. | Uses features like infinite scrolling to keep users hooked onto the app and also leads to unhealthy comparison as users constantly see edited, perfect versions of other people's lives. |  |
-| Formula 1 | Gives fans access to race schedules, driver standings and news articles for free and provides recaps and team radio clips to make the races easier to follow. | Locks the best data tools and analysis behind premium subscriptions and uses cookie pop-ups to generate ad revenue from free visitors. |  |
+| Formula 1 | Gives fans access to race schedules, driver standings and news articles for free and provides recaps and team radio clips to make the races easier to follow. | Locks the best data tools and analysis behind premium subscriptions and uses cookie pop-ups to generate ad revenue from free visitors. | I will give users access to many different things but won’t need a pay heh (I don’t know how to anyway). Without paying, it will produce the best information and analysis behind eras, cards, sets and places where users can go to gain more information on card values, etc. |
 | Amazon | Uses AI to make shopping fast, reliable and accessible for everyone while also allowing small local businesses to use their massive warehouse network to sell products worldwide without owning a factory. | Uses deceptive designs like using fake "limited stock" countdowns timers to trick buyers and also tracks what third-party shops sell on their sites and copies their best selling products to sell them cheaper under its own brand. |  |
 
 
