@@ -8,8 +8,8 @@
 | Idea Name | What It Does | Influence It Explores | Who It Helps |
 | - | - | - | - |
 | Recipe with my groceries | When people enter the groceries they have at home, the website will generate different recipes they can try. | It influences people not to waste food. | People who have a hard time using groceries to cook meals. |
-| All about F1 | Informs people about the basics on F1. |  | People who want to start getting into F1 | 
-| Pokemon For Beginners |  |  | It helps people who want to start getting into collecting cards. | 
+| All about F1 | Informs people about everything on F1 |  | People who want to start getting into F1 | 
+| Pokemon Series' | Informs people on the different series' on pokemon cards and where to start, etc. |  | Helps people who are starting to get interested in pokemon cards and tells them where to start. | 
 | Match your mood | Generates music based on your mood and also if you enter in a song you like, it will find you similar ones |  |  |
 | Online Lego | You can play with lego blocks online and create whatever you want | Influences creativity | Helps those who have limited movements in their hands or can't buy physical lego | 
 | Don't be alone | Teaches people how to deal with people with different personalities based on MBTI |  | Those who have trouble talking and socialising with others |
@@ -23,43 +23,41 @@
 ![](./images/SWOT_2.png)
 
 ### Reflect and Choose
-Based on my Impact / Effort Matrix and Peer SWOT Analysis, my ideas like 'Online Lego' and 'Recipe with my Groceries' gave my website a higher impact but required too much development effort for timeline of 5 weeks. Although 'Don't be alone' and 'Match your mood' may have been better options than 'Pokemon for Beginners' and 'All about F1', I felt like they would require too little effort for this task. In terms of my Impact / Effort Matrix for 'All about F1' and 'Pokemon for Beginners', 'Pokemon for Beginners' offered a much higher potential for impact. Looking at the SWOT Analysis, 'All about F1' had a big threat on a high volume market competition which could reduce my website' influence on users. Overall, 'Pokemon for beginners' would be my choice also considering Pokemon's rising influence these days.
+Write a one-paragraph reflection based on your Impact/Effort Matrix and Peer SWOT Analysis.
 
+Following this, select your final idea and make note of it.
 
-## Requirements Outline
+## Requiremets Outline
 ### Functional Requirements
-My website will serve as a gateway for beginners to get into collecting pokemon cards. It will categorise information into the different eras of cards and show the most popular sets and individuals cards for each era. It will also provide users with other website and apps that will help with calculating card values and tools to check real-time market prices.
-- write for each page (past assessment task)
-
-**Home Page**  
-**
-
 ### Non-Functional Requirements
 **Performance**  
-My website must deliver a fast user experience by ensuring pages load under 3 seconds and images of different cards should be of high-quality.
-
 **Usability**  
-The platform must also have an intuitive layout that allows users to navigate easily and quickly between different eras and their popular sets and cards as well as being able to find other resources without any trouble.
-
 **Reliability**  
-The system must be highly dependable to ensure that the website it always available to users. 
-
 **Security**  
-To ensure data safety, the website will not collect personal information and all outgoing links will be checked and validated before being uploaded. 
 
-**Accessibility**
-The website must be all inclusive to users by ensuring that every image includes a descriptive text to support visually impaired individuals who are using screen readers.
-
-
-- how good and bad are contrbuting to it
 
 ## Researching and Planning
 ### Explore Existing Ideas
-| Websites / Web Applications| Plus | Minus | Implications |
-| - | - | - | - |
-| Instagram | Gives small businesses and other creators a free platform to share their work and have a chance of reaching a global audience and can also help people with unique interest or hobbies find online communities all over the world. | Uses features like infinite scrolling to keep users hooked onto the app and also leads to unhealthy comparison as users constantly see edited, perfect versions of other people's lives. |  |
-| Formula 1 | Gives fans access to race schedules, driver standings and news articles for free and provides recaps and team radio clips to make the races easier to follow. | Locks the best data tools and analysis behind premium subscriptions and uses cookie pop-ups to generate ad revenue from free visitors. | I will give users access to many different things but won’t need a pay heh (I don’t know how to anyway). Without paying, it will produce the best information and analysis behind eras, cards, sets and places where users can go to gain more information on card values, etc. |
-| Amazon | Uses AI to make shopping fast, reliable and accessible for everyone while also allowing small local businesses to use their massive warehouse network to sell products worldwide without owning a factory. | Uses deceptive designs like using fake "limited stock" countdowns timers to trick buyers and also tracks what third-party shops sell on their sites and copies their best selling products to sell them cheaper under its own brand. |  |
+Research at least three websites / web applications which are used to influence people. Evaluate each with a PMI (Plus, Minus, Implications) table.
+- **fandom**   
+
+| Plus | Minus | Implications |
+| - | - | - |
+|  |  |  |
+
+
+- **wikipedia**
+
+| Plus | Minus | Implications |
+| - | - | - |
+|  | Anyone can edit it, somethings leading to false and unreliable information. |  |
+
+
+- **formula 1** 
+
+| Plus | Minus | Implications |
+| - | - | - |
+|  |  |  |
 
 
 ### Secondary Research
@@ -83,13 +81,11 @@ Create a prototype of at least your home page and one another page from your web
 
 ## Producing and Implementing
 ### Documentation
-Document the whole development process (including all of the above) in a Markdown (.md) file.
-
 | Week | Development Process |
 | - | - |
 | 2 | Made the documentation.md files, my mind map and started the 6 big ideas. |
 | 3 | I nearly finished the Diverge section and made the matrix and SWOT for my ideas. |
-| 4 | I decided to change my idea from F1 to Pokemon due to the overflowing amount of pre-existing F1 websites and also started on documenting the development process. I finished the plus and minus sections of exploring existing ideas, finished my functional and non-functional requirements, did my reflect and choose section and also released my google form for the primary research section. |
+| 4 | I decided to change my idea from F1 to Pokemon due to the overflowing amount of pre-existing F1 websites and also started on documenting the development process. |
 
 
 ## Testing and Evaluating
