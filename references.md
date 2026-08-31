@@ -12,3 +12,18 @@ might be useful for later
     <input type="text" name="search" id="search">
     <button>Search</button>
 </form>
+
+    <div>
+        <button>click me</button>
+        <br>
+        <a href="https://www.youtube.com/watch?v=vY2xUc4TVmY&t=219s" target="_blank">Link Name</a> <!--rel=--> <!--absolute link-->
+        <!--as its in a new location you have to put pages/ but if its in the same location, you just write about.html-->
+        <br>
+        <a href="./pages/about.html">Abouts Page</a> <!--relative link-->
+    </div>
+
+
+    <style type="text/css">
+
+    <a href="">Title</a>
+

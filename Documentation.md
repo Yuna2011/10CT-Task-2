@@ -86,7 +86,7 @@ Create a prototype of at least your home page and one another page from your web
 | 2 | Made the documentation.md files, my mind map and started the 6 big ideas. |
 | 3 | I nearly finished the Diverge section and made the matrix and SWOT for my ideas. |
 | 4 | I decided to change my idea from F1 to Pokemon due to the overflowing amount of pre-existing F1 websites and also started on documenting the development process. |
-
+| 5 | I started making my website by following a youtube turotial on how to start and the basics and then added an image banner and title for my webiste. I also started to research information to put into my website on a google docs. |
 
 ## Testing and Evaluating
 ### Peer Evaluation
