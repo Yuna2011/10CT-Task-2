@@ -7,11 +7,7 @@ to make my image banner and title in my main page
 might be useful for later
 - https://www.youtube.com/watch?v=p1GmFCGuVjw
 
-<form>
-    <label>Search</label>
-    <input type="text" name="search" id="search">
-    <button>Search</button>
-</form>
+
 
     <div>
         <button>click me</button>
@@ -23,7 +19,6 @@ might be useful for later
     </div>
 
 
-    <style type="text/css">
 
     
 
