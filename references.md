@@ -10,8 +10,8 @@ might be useful for later
 for my font
 - https://www.youtube.com/watch?v=lDip-1VnaOA
 
-background color
-- https://www.w3schools.com/html/tryit.asp?filename=tryhtml_styles_background-color 
+for my logo
+- https://www.w3schools.com/css/css3_images.asp
 
 
 

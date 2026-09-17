@@ -59,6 +59,20 @@
     text-decoration:none;
 }
 
+.logo_image img
+{
+    position:absolute;
+    top:8px;
+    left:16px;
+    z-index:10;
+    width:5%;
+    height:auto;
+    margin:20px;
+    object-fit:cover;
+    display:block;
+    border-radius:50%;
+}
+
 .navigation
 {
     position: absolute;
