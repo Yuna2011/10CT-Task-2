@@ -18,7 +18,7 @@
     width:100%;
     height:100vh;
     object-fit:cover;
-    filter:blur(3px)
+    filter:blur(5px)
 }
 
 .main_image
@@ -28,10 +28,11 @@
     left:50%;
     transform:translate(-50%, -50%);
     z-index:1;
-    width:60%;
-    height:auto;
+    width:90%;
+    height:80%;
     object-fit:cover;
     border-radius:50px;
+    border:5px solid white;
 }
 
 .container
@@ -63,14 +64,14 @@
 {
     position:absolute;
     top:8px;
-    left:16px;
+    left:0px;
     z-index:10;
-    width:5%;
+    width:4%;
     height:auto;
     margin:20px;
     object-fit:cover;
     display:block;
-    border-radius:50%;
+    cursor:pointer;
 }
 
 .navigation
