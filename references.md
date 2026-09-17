@@ -13,17 +13,10 @@ for my font
 for my logo
 - https://www.w3schools.com/css/css3_images.asp
 
+for my scroll
+- https://www.subframe.com/tips/css-scroll-effect-examples 
 
+shadow for my about box
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/box-shadow?utm_so
 
-    <div>
-        <button>click me</button>
-        <br>
-        <a href="https://www.youtube.com/watch?v=vY2xUc4TVmY&t=219s" target="_blank">Link Name</a> <!--rel=--> <!--absolute link-->
-        <!--as its in a new location you have to put pages/ but if its in the same location, you just write about.html-->
-        <br>
-        <a href="./pages/about.html">Abouts Page</a> <!--relative link-->
-    </div>
-
-
-    
 
