@@ -19,4 +19,14 @@ for my scroll
 shadow for my about box
 - https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/box-shadow?utm_so
 
+era boxes
+- https://www.youtube.com/watch?v=ag0XZxzuMn0&t=576s 
 
+in general
+- https://www.youtube.com/watch?v=dwD8ZO3pnqs 
+
+autosizing
+- https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/ 
+
+java
+- https://www.youtube.com/watch?v=IjFzmHdpnsU 
