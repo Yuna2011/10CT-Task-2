@@ -81,6 +81,24 @@
     transform:scale(1.1);
 }
 
+.site_title
+{
+    position:absolute;
+    top:25px;
+    left:50%;
+    transform:translateX(-50%);
+    z-index:10;
+    font-size:28px;
+    font-weight:bold;
+    color:black;
+    text-decoration:none;
+}
+
+.site_title:hover
+{
+    opacity:0.6;
+}
+
 .navigation
 {
     position: absolute;
@@ -331,7 +349,7 @@ transform:scaleX(1);
 .services_section
 {
     min-height:100vh;
-    padding:70px 8% 120px;
+    padding:110px 8% 120px;
     background:#e8f1f5;
 }
 
@@ -454,7 +472,7 @@ transform:scaleX(1);
 .era_page
 {
     min-height:100vh;
-    padding:70px 8% 100px;
+    padding:110px 8% 100px;
     background:#e8f1f5;
 }
 
