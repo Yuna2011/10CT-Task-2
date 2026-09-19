@@ -6,6 +6,19 @@
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
 </head>
+<script>
+    window.addEventListener("scroll", function() {
+    const scrollIndicator = document.querySelector(".scroll");
+
+    const scrollPosition = window.scrollY;
+
+    if (scrollPosition > 50) {
+        scrollIndicator.style.opacity = 1 - (scrollPosition / 200);
+    } else {
+        scrollIndicator.style.opacity = 1;
+    }
+});
+</script>
 <body>
     <div class="container">
         <img class="my_cover" src="background.jpg">
