@@ -15,9 +15,11 @@ for my logo
 
 for my scroll
 - https://www.subframe.com/tips/css-scroll-effect-examples 
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/opacity
+- https://developer.mozilla.org/en-US/docs/Web/API/Document/scroll_event
 
 shadow for my about box
-- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/box-shadow?utm_so
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/box-shadow
 
 era boxes
 - https://www.youtube.com/watch?v=ag0XZxzuMn0&t=576s 
@@ -30,3 +32,6 @@ autosizing
 
 java
 - https://www.youtube.com/watch?v=IjFzmHdpnsU 
+
+to open new tabs
+- https://www.w3schools.com/tags/att_a_target.asp 
