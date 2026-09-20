@@ -124,10 +124,10 @@ The qualitative responses also showed that beginners are mainly confused about c
 
 ### UI/UX Design
 **Alternative 1**
-<img src="./images/Design1.png" width="700" height="auto"> 
+<img src="./images/Design1.jpeg" width="700" height="auto"> 
 
 **Alternative 2**
-<img src="./images/Design2.png" width="700" height="auto"> 
+<img src="./images/Design2.jpeg" width="700" height="auto"> 
 
 ### Prototype
 <img src="./images/home_adobe.png" width="700" height="auto"> 
